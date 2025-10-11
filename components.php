@@ -39,7 +39,8 @@ function custom_header($navbar_items) { ?>
         <div class="container">
             <a class="navbar-brand" href="index.php"><i class="fas fa-code"></i> Luka-Giorgi Lomidze</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-                <span class="navbar-toggler-icon"></span>
+             <span style=" font-size: 27px;
+    color: #fff ;">&#9776;</span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
